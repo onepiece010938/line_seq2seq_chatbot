@@ -1,0 +1,5 @@
+/weight/*.pt
+train_data/*.txt
+train_data/*.data
+line_msg_preprocess/*.txt
+**/__pycache__/**

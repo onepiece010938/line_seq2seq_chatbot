@@ -1,0 +1,8 @@
+config:
+  userName: "" # Your name
+  friendName: "" # The name of your chat partner
+  lineHistoryPath: "" # Your .txt file 
+setting:
+  userNameFlag: "M"
+  friendNameFlag: "M"
+  newFieldFlag: "E"
